@@ -1,0 +1,18 @@
+*{
+	box-sizing: border-box;
+}
+
+.body{
+	padding: 10px;
+	font-family: cursive;
+	background: lightblue;
+	font-size: 17px;
+	margin: 10px 15px;
+}
+
+.container{
+	font-family: cursive;
+	background: lightblue;
+	border: 1 solid lightgray;
+	border-radius: 4px;
+}

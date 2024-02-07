@@ -1,0 +1,26 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.a{
+	padding: 0px;
+	background-color: red;
+
+}
+
+.b{
+	padding: 20px;
+	background-color: orange;
+}
+
+.c{
+	padding: 20px;
+	background-color: navy;
+
+}
+
+.d{
+	padding: 20px;
+	background-color: red;
+}

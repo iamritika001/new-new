@@ -1,0 +1,77 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.a{
+	background: orange;
+	padding: 30px;
+	text-align: center;
+
+}
+
+.b{
+	background: yellow;
+	padding: 80px;
+	text-align: center;
+}
+
+.c{
+	background: navy;
+	padding: 100px;
+	text-align: center;
+	color: white;
+
+}
+
+.d{
+	background: red;
+	padding: 41px;
+	text-align: center;
+}
+
+
+
+
+
+.e{
+	background: lightgreen;
+	padding: 41px;
+	text-align: center;
+}
+
+.f{
+	background: lightgreen;
+	padding: 49px;
+	
+}
+
+.g{
+	background: lightblue;
+	padding: 100px;
+	text-align: center;
+}
+
+.h{
+	padding: 100px;
+	background: deeppink;
+	text-align: center;
+}
+
+.i{
+	padding: 42px;
+	background: darkgreen;
+	text-align: center;
+}
+
+.j{
+	padding: 40px;
+	background: mediumpurple;
+	text-align: center;
+}
+
+.k{
+	padding: 40px;
+	background: yellow;
+	text-align: center;
+}

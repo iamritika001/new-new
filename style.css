@@ -1,0 +1,29 @@
+.*{
+	margin: 0px;
+	padding: 0px;
+
+
+}
+
+
+.a{
+	padding: 10px;
+	background: red;
+	text-decoration-color: white;
+
+
+}
+
+
+.d{
+	background-color: pink;
+	padding: 10px;
+	color: whitesmoke;
+
+}
+
+.e{
+	padding: 10px;
+	background-color: orange;
+	color: whitesmoke;
+}
